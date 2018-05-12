@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6140
     wikipedia: http://en.wikipedia.org/wiki/Ignatius_Valentine_Chirol
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16444#Indian-Unrest
 gutenberg_bookshelf: India
 gutenberg_issued: '2005-08-05'
 gutenberg_type: Text
