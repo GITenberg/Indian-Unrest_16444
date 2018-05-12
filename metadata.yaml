@@ -1,0 +1,30 @@
+_repo: Indian-Unrest_16444
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chirol, Valentine, Sir
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '6140'
+    url: http://www.gutenberg.org/2009/agents/6140
+    wikipedia: http://en.wikipedia.org/wiki/Ignatius_Valentine_Chirol
+description: ''
+gutenberg_bookshelf: India
+gutenberg_issued: '2005-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Social conditions'
+- !lcsh 'India -- Politics and government -- 1857-1919'
+- !lcc 'DS'
+- !lcsh 'Education -- India'
+title: Indian Unrest
+url: http://www.gutenberg.org/ebooks/16444
